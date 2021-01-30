@@ -2,7 +2,7 @@
   "name": "webpage-site",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://ChiragKr04.github.io/react-website",
+  "homepage" : "https://chiragkr04.github.io/react-webpage/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
